@@ -1,0 +1,8 @@
+dataset,images,units,unit_type,referable_units,referable_rate,images_per_unit,role_calib,role_train,role_val
+aptos,3662,3662,image,1487,0.4061,{1: 3662},,,
+ddr,12522,12522,image,5626,0.4493,{1: 12522},,,
+deepdrid,1589,399,patient,200,0.5013,"{1: 1, 2: 2, 4: 396}",,,
+eyepacs,35126,17563,patient,3966,0.2258,{2: 17563},5269.0,10537.0,1757.0
+idrid,516,516,image,323,0.626,{1: 516},,,
+messidor2,1744,874,patient,268,0.3066,"{1: 4, 2: 870}",,,
+eyepacs_test_pool (scale experiment only),16249,12048,patient,2705,0.2245,"{1: 7847, 2: 4201}",,,

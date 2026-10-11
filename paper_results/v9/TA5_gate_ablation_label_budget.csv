@@ -1,0 +1,361 @@
+backbone,alpha,group,method,miss,exceed,n_lab,flag,worst_scenario_miss
+ConvNeXt-T,0.02,Appearance shift,FINAL_CP,0.00822,0.11129,443.81529,0.96918,0.00999
+ConvNeXt-T,0.02,Appearance shift,FINAL_CRC,0.01629,0.312,443.81529,0.96918,0.01738
+ConvNeXt-T,0.02,Appearance shift,G4_CP,0.00822,0.11129,443.81529,0.96918,0.00999
+ConvNeXt-T,0.02,Appearance shift,G4_CRC,0.01629,0.312,443.81529,0.96918,0.01738
+ConvNeXt-T,0.02,Appearance shift,Gfeat_CP,0.00813,0.10941,445.66824,0.96918,0.00896
+ConvNeXt-T,0.02,Appearance shift,Gfeat_CRC,0.01626,0.31118,445.66824,0.96918,0.01738
+ConvNeXt-T,0.02,Appearance shift,Gscore_CP,0.02034,0.35188,249.78412,0.96918,0.03463
+ConvNeXt-T,0.02,Appearance shift,Gscore_CRC,0.02487,0.46471,249.78412,0.96918,0.03829
+ConvNeXt-T,0.02,Appearance shift,TGT_CP,0.00764,0.09941,454.47753,0.96918,0.00896
+ConvNeXt-T,0.02,Appearance shift,TGT_CRC,0.0161,0.30741,454.47753,0.96918,0.01738
+ConvNeXt-T,0.02,Concept shift (image-invisible),FINAL_CP,0.05951,0.956,11.231,0.028,0.0707
+ConvNeXt-T,0.02,Concept shift (image-invisible),FINAL_CRC,0.0598,0.963,11.231,0.028,0.07092
+ConvNeXt-T,0.02,Concept shift (image-invisible),G4_CP,0.05951,0.956,11.231,0.028,0.0707
+ConvNeXt-T,0.02,Concept shift (image-invisible),G4_CRC,0.0598,0.963,11.231,0.028,0.07092
+ConvNeXt-T,0.02,Concept shift (image-invisible),Gfeat_CP,0.06013,0.966,4.876,0.028,0.07123
+ConvNeXt-T,0.02,Concept shift (image-invisible),Gfeat_CRC,0.06023,0.969,4.876,0.028,0.07131
+ConvNeXt-T,0.02,Concept shift (image-invisible),Gscore_CP,0.05895,0.944,16.943,0.028,0.07001
+ConvNeXt-T,0.02,Concept shift (image-invisible),Gscore_CRC,0.05932,0.952,16.943,0.028,0.07033
+ConvNeXt-T,0.02,Concept shift (image-invisible),TGT_CP,0.00892,0.127,399.886,0.028,0.00962
+ConvNeXt-T,0.02,Concept shift (image-invisible),TGT_CRC,0.01722,0.339,399.886,0.028,0.0181
+ConvNeXt-T,0.02,Prevalence shift,FINAL_CP,0.01717,0.336,14.20667,0.02867,0.01722
+ConvNeXt-T,0.02,Prevalence shift,FINAL_CRC,0.0174,0.34067,14.20667,0.02867,0.01744
+ConvNeXt-T,0.02,Prevalence shift,G4_CP,0.01717,0.336,14.20667,0.02867,0.01722
+ConvNeXt-T,0.02,Prevalence shift,G4_CRC,0.0174,0.34067,14.20667,0.02867,0.01744
+ConvNeXt-T,0.02,Prevalence shift,Gfeat_CP,0.01737,0.344,4.838,0.02867,0.0174
+ConvNeXt-T,0.02,Prevalence shift,Gfeat_CRC,0.01741,0.34467,4.838,0.02867,0.01744
+ConvNeXt-T,0.02,Prevalence shift,Gscore_CP,0.017,0.334,21.80933,0.02867,0.01708
+ConvNeXt-T,0.02,Prevalence shift,Gscore_CRC,0.01745,0.34533,21.80933,0.02867,0.01754
+ConvNeXt-T,0.02,Prevalence shift,TGT_CP,0.00822,0.10667,508.494,0.02867,0.00835
+ConvNeXt-T,0.02,Prevalence shift,TGT_CRC,0.01652,0.32133,508.494,0.02867,0.01684
+ConvNeXt-T,0.02,Real sites,FINAL_CP,0.00349,0.0464,196.6864,1.0,0.00886
+ConvNeXt-T,0.02,Real sites,FINAL_CRC,0.01449,0.2732,196.6864,1.0,0.01815
+ConvNeXt-T,0.02,Real sites,G4_CP,0.00349,0.0464,196.6864,1.0,0.00886
+ConvNeXt-T,0.02,Real sites,G4_CRC,0.01449,0.2732,196.6864,1.0,0.01815
+ConvNeXt-T,0.02,Real sites,Gfeat_CP,0.00349,0.0464,196.6864,1.0,0.00886
+ConvNeXt-T,0.02,Real sites,Gfeat_CRC,0.01449,0.2732,196.6864,1.0,0.01815
+ConvNeXt-T,0.02,Real sites,Gscore_CP,0.00353,0.0464,188.718,1.0,0.00886
+ConvNeXt-T,0.02,Real sites,Gscore_CRC,0.014,0.2616,188.718,1.0,0.01815
+ConvNeXt-T,0.02,Real sites,TGT_CP,0.00349,0.0464,196.6864,1.0,0.00886
+ConvNeXt-T,0.02,Real sites,TGT_CRC,0.01449,0.2732,196.6864,1.0,0.01815
+ConvNeXt-T,0.05,Appearance shift,FINAL_CP,0.02177,0.11118,171.89965,0.96918,0.03764
+ConvNeXt-T,0.05,Appearance shift,FINAL_CRC,0.04285,0.33259,171.89965,0.96918,0.04857
+ConvNeXt-T,0.05,Appearance shift,G4_CP,0.02177,0.11118,171.89965,0.96918,0.03764
+ConvNeXt-T,0.05,Appearance shift,G4_CRC,0.04285,0.33259,171.89965,0.96918,0.04857
+ConvNeXt-T,0.05,Appearance shift,Gfeat_CP,0.02159,0.10847,172.87729,0.96918,0.03453
+ConvNeXt-T,0.05,Appearance shift,Gfeat_CRC,0.04284,0.33165,172.87729,0.96918,0.04827
+ConvNeXt-T,0.05,Appearance shift,Gscore_CP,0.05028,0.42082,96.22024,0.96918,0.08094
+ConvNeXt-T,0.05,Appearance shift,Gscore_CRC,0.0622,0.54953,96.22024,0.96918,0.09082
+ConvNeXt-T,0.05,Appearance shift,TGT_CP,0.02079,0.09918,177.59482,0.96918,0.02258
+ConvNeXt-T,0.05,Appearance shift,TGT_CRC,0.04268,0.32871,177.59482,0.96918,0.0456
+ConvNeXt-T,0.05,Concept shift (image-invisible),FINAL_CP,0.11994,0.971,4.325,0.028,0.13956
+ConvNeXt-T,0.05,Concept shift (image-invisible),FINAL_CRC,0.12058,0.98,4.325,0.028,0.14008
+ConvNeXt-T,0.05,Concept shift (image-invisible),G4_CP,0.11994,0.971,4.325,0.028,0.13956
+ConvNeXt-T,0.05,Concept shift (image-invisible),G4_CRC,0.12058,0.98,4.325,0.028,0.14008
+ConvNeXt-T,0.05,Concept shift (image-invisible),Gfeat_CP,0.12145,0.985,1.911,0.028,0.14104
+ConvNeXt-T,0.05,Concept shift (image-invisible),Gfeat_CRC,0.12188,0.992,1.911,0.028,0.1416
+ConvNeXt-T,0.05,Concept shift (image-invisible),Gscore_CP,0.11862,0.959,6.561,0.028,0.13767
+ConvNeXt-T,0.05,Concept shift (image-invisible),Gscore_CRC,0.1195,0.968,6.561,0.028,0.1384
+ConvNeXt-T,0.05,Concept shift (image-invisible),TGT_CP,0.02148,0.098,157.895,0.028,0.02213
+ConvNeXt-T,0.05,Concept shift (image-invisible),TGT_CRC,0.04219,0.316,157.895,0.028,0.04297
+ConvNeXt-T,0.05,Prevalence shift,FINAL_CP,0.04696,0.40733,6.07133,0.02867,0.04728
+ConvNeXt-T,0.05,Prevalence shift,FINAL_CRC,0.04751,0.41533,6.07133,0.02867,0.04779
+ConvNeXt-T,0.05,Prevalence shift,G4_CP,0.04696,0.40733,6.07133,0.02867,0.04728
+ConvNeXt-T,0.05,Prevalence shift,G4_CRC,0.04751,0.41533,6.07133,0.02867,0.04779
+ConvNeXt-T,0.05,Prevalence shift,Gfeat_CP,0.04738,0.41333,2.04333,0.02867,0.04757
+ConvNeXt-T,0.05,Prevalence shift,Gfeat_CRC,0.0475,0.41467,2.04333,0.02867,0.0476
+ConvNeXt-T,0.05,Prevalence shift,Gscore_CP,0.04642,0.40133,9.26067,0.02867,0.0468
+ConvNeXt-T,0.05,Prevalence shift,Gscore_CRC,0.04733,0.41133,9.26067,0.02867,0.04745
+ConvNeXt-T,0.05,Prevalence shift,TGT_CP,0.02079,0.10133,218.09933,0.02867,0.02139
+ConvNeXt-T,0.05,Prevalence shift,TGT_CRC,0.04211,0.32267,218.09933,0.02867,0.04243
+ConvNeXt-T,0.05,Real sites,FINAL_CP,0.02134,0.114,103.7844,1.0,0.02356
+ConvNeXt-T,0.05,Real sites,FINAL_CRC,0.04341,0.3396,103.7844,1.0,0.04525
+ConvNeXt-T,0.05,Real sites,G4_CP,0.02134,0.114,103.7844,1.0,0.02356
+ConvNeXt-T,0.05,Real sites,G4_CRC,0.04341,0.3396,103.7844,1.0,0.04525
+ConvNeXt-T,0.05,Real sites,Gfeat_CP,0.02134,0.114,103.7844,1.0,0.02356
+ConvNeXt-T,0.05,Real sites,Gfeat_CRC,0.04341,0.3396,103.7844,1.0,0.04525
+ConvNeXt-T,0.05,Real sites,Gscore_CP,0.02092,0.11,98.3632,1.0,0.02356
+ConvNeXt-T,0.05,Real sites,Gscore_CRC,0.04225,0.3292,98.3632,1.0,0.04525
+ConvNeXt-T,0.05,Real sites,TGT_CP,0.02134,0.114,103.7844,1.0,0.02356
+ConvNeXt-T,0.05,Real sites,TGT_CRC,0.04341,0.3396,103.7844,1.0,0.04525
+ConvNeXt-T,0.1,Appearance shift,FINAL_CP,0.04491,0.11412,83.52788,0.96918,0.07213
+ConvNeXt-T,0.1,Appearance shift,FINAL_CRC,0.08744,0.34588,83.52788,0.96918,0.09417
+ConvNeXt-T,0.1,Appearance shift,G4_CP,0.04491,0.11412,83.52788,0.96918,0.07213
+ConvNeXt-T,0.1,Appearance shift,G4_CRC,0.08744,0.34588,83.52788,0.96918,0.09417
+ConvNeXt-T,0.1,Appearance shift,Gfeat_CP,0.04466,0.11247,83.99,0.96918,0.0679
+ConvNeXt-T,0.1,Appearance shift,Gfeat_CRC,0.08739,0.34506,83.99,0.96918,0.09323
+ConvNeXt-T,0.1,Appearance shift,Gscore_CP,0.09578,0.43435,46.83471,0.96918,0.14113
+ConvNeXt-T,0.1,Appearance shift,Gscore_CRC,0.11954,0.56447,46.83471,0.96918,0.15879
+ConvNeXt-T,0.1,Appearance shift,TGT_CP,0.04327,0.10424,86.17894,0.96918,0.04676
+ConvNeXt-T,0.1,Appearance shift,TGT_CRC,0.08722,0.34424,86.17894,0.96918,0.09074
+ConvNeXt-T,0.1,Concept shift (image-invisible),FINAL_CP,0.19766,0.971,2.099,0.028,0.22531
+ConvNeXt-T,0.1,Concept shift (image-invisible),FINAL_CRC,0.19893,0.979,2.099,0.028,0.22639
+ConvNeXt-T,0.1,Concept shift (image-invisible),G4_CP,0.19766,0.971,2.099,0.028,0.22531
+ConvNeXt-T,0.1,Concept shift (image-invisible),G4_CRC,0.19893,0.979,2.099,0.028,0.22639
+ConvNeXt-T,0.1,Concept shift (image-invisible),Gfeat_CP,0.19977,0.986,0.952,0.028,0.22721
+ConvNeXt-T,0.1,Concept shift (image-invisible),Gfeat_CRC,0.20065,0.99,0.952,0.028,0.22772
+ConvNeXt-T,0.1,Concept shift (image-invisible),Gscore_CP,0.19566,0.959,3.186,0.028,0.22271
+ConvNeXt-T,0.1,Concept shift (image-invisible),Gscore_CRC,0.19755,0.971,3.186,0.028,0.22447
+ConvNeXt-T,0.1,Concept shift (image-invisible),TGT_CP,0.04216,0.091,77.144,0.028,0.04284
+ConvNeXt-T,0.1,Concept shift (image-invisible),TGT_CRC,0.08636,0.327,77.144,0.028,0.0884
+ConvNeXt-T,0.1,Prevalence shift,FINAL_CP,0.09606,0.424,3.146,0.02867,0.09643
+ConvNeXt-T,0.1,Prevalence shift,FINAL_CRC,0.09732,0.43333,3.146,0.02867,0.09793
+ConvNeXt-T,0.1,Prevalence shift,G4_CP,0.09606,0.424,3.146,0.02867,0.09643
+ConvNeXt-T,0.1,Prevalence shift,G4_CRC,0.09732,0.43333,3.146,0.02867,0.09793
+ConvNeXt-T,0.1,Prevalence shift,Gfeat_CP,0.09704,0.43067,1.04,0.02867,0.09756
+ConvNeXt-T,0.1,Prevalence shift,Gfeat_CRC,0.09725,0.43133,1.04,0.02867,0.09764
+ConvNeXt-T,0.1,Prevalence shift,Gscore_CP,0.09531,0.418,4.77267,0.02867,0.09576
+ConvNeXt-T,0.1,Prevalence shift,Gscore_CRC,0.09723,0.43133,4.77267,0.02867,0.09751
+ConvNeXt-T,0.1,Prevalence shift,TGT_CP,0.04072,0.09,112.91533,0.02867,0.04129
+ConvNeXt-T,0.1,Prevalence shift,TGT_CRC,0.08358,0.326,112.91533,0.02867,0.08526
+ConvNeXt-T,0.1,Real sites,FINAL_CP,0.04257,0.1052,50.874,1.0,0.04809
+ConvNeXt-T,0.1,Real sites,FINAL_CRC,0.08719,0.3424,50.874,1.0,0.09093
+ConvNeXt-T,0.1,Real sites,G4_CP,0.04257,0.1052,50.874,1.0,0.04809
+ConvNeXt-T,0.1,Real sites,G4_CRC,0.08719,0.3424,50.874,1.0,0.09093
+ConvNeXt-T,0.1,Real sites,Gfeat_CP,0.04257,0.1052,50.874,1.0,0.04809
+ConvNeXt-T,0.1,Real sites,Gfeat_CRC,0.08719,0.3424,50.874,1.0,0.09093
+ConvNeXt-T,0.1,Real sites,Gscore_CP,0.04226,0.102,48.2,1.0,0.04809
+ConvNeXt-T,0.1,Real sites,Gscore_CRC,0.08545,0.33,48.2,1.0,0.09093
+ConvNeXt-T,0.1,Real sites,TGT_CP,0.04257,0.1052,50.874,1.0,0.04809
+ConvNeXt-T,0.1,Real sites,TGT_CRC,0.08719,0.3424,50.874,1.0,0.09093
+ResNet-50,0.02,Appearance shift,FINAL_CP,0.00858,0.11922,444.04902,0.96745,0.00954
+ResNet-50,0.02,Appearance shift,FINAL_CRC,0.01689,0.33294,444.04902,0.96745,0.01811
+ResNet-50,0.02,Appearance shift,G4_CP,0.00858,0.11922,444.04902,0.96745,0.00954
+ResNet-50,0.02,Appearance shift,G4_CRC,0.01689,0.33294,444.04902,0.96745,0.01811
+ResNet-50,0.02,Appearance shift,Gfeat_CP,0.00847,0.11647,446.35902,0.96745,0.00954
+ResNet-50,0.02,Appearance shift,Gfeat_CRC,0.01685,0.33176,446.35902,0.96745,0.01811
+ResNet-50,0.02,Appearance shift,Gscore_CP,0.01653,0.24765,331.13843,0.96745,0.0417
+ResNet-50,0.02,Appearance shift,Gscore_CRC,0.02271,0.41,331.13843,0.96745,0.04736
+ResNet-50,0.02,Appearance shift,TGT_CP,0.00805,0.10961,455.33353,0.96745,0.00954
+ResNet-50,0.02,Appearance shift,TGT_CRC,0.0167,0.32843,455.33353,0.96745,0.01811
+ResNet-50,0.02,Concept shift (image-invisible),FINAL_CP,0.04039,0.865,15.15667,0.03833,0.0462
+ResNet-50,0.02,Concept shift (image-invisible),FINAL_CRC,0.04067,0.87333,15.15667,0.03833,0.04651
+ResNet-50,0.02,Concept shift (image-invisible),G4_CP,0.04039,0.865,15.15667,0.03833,0.0462
+ResNet-50,0.02,Concept shift (image-invisible),G4_CRC,0.04067,0.87333,15.15667,0.03833,0.04651
+ResNet-50,0.02,Concept shift (image-invisible),Gfeat_CP,0.04102,0.88,5.685,0.03833,0.04718
+ResNet-50,0.02,Concept shift (image-invisible),Gfeat_CRC,0.04111,0.88,5.685,0.03833,0.04731
+ResNet-50,0.02,Concept shift (image-invisible),Gscore_CP,0.03992,0.85333,19.87333,0.03833,0.04599
+ResNet-50,0.02,Concept shift (image-invisible),Gscore_CRC,0.04037,0.86667,19.87333,0.03833,0.04644
+ResNet-50,0.02,Concept shift (image-invisible),TGT_CP,0.00834,0.10333,399.43833,0.03833,0.00921
+ResNet-50,0.02,Concept shift (image-invisible),TGT_CRC,0.01716,0.325,399.43833,0.03833,0.01779
+ResNet-50,0.02,Prevalence shift,FINAL_CP,0.01762,0.34333,10.75889,0.02111,0.01775
+ResNet-50,0.02,Prevalence shift,FINAL_CRC,0.01781,0.34778,10.75889,0.02111,0.01792
+ResNet-50,0.02,Prevalence shift,G4_CP,0.01762,0.34333,10.75889,0.02111,0.01775
+ResNet-50,0.02,Prevalence shift,G4_CRC,0.01781,0.34778,10.75889,0.02111,0.01792
+ResNet-50,0.02,Prevalence shift,Gfeat_CP,0.01768,0.34667,4.33333,0.02111,0.01769
+ResNet-50,0.02,Prevalence shift,Gfeat_CRC,0.01772,0.34778,4.33333,0.02111,0.01776
+ResNet-50,0.02,Prevalence shift,Gscore_CP,0.01738,0.33889,21.17111,0.02111,0.01745
+ResNet-50,0.02,Prevalence shift,Gscore_CRC,0.01773,0.34556,21.17111,0.02111,0.01779
+ResNet-50,0.02,Prevalence shift,TGT_CP,0.00847,0.12333,509.67556,0.02111,0.00921
+ResNet-50,0.02,Prevalence shift,TGT_CRC,0.01696,0.33667,509.67556,0.02111,0.01775
+ResNet-50,0.02,Real sites,FINAL_CP,0.00333,0.03733,196.80133,1.0,0.00937
+ResNet-50,0.02,Real sites,FINAL_CRC,0.01452,0.27133,196.80133,1.0,0.018
+ResNet-50,0.02,Real sites,G4_CP,0.00333,0.03733,196.80133,1.0,0.00937
+ResNet-50,0.02,Real sites,G4_CRC,0.01452,0.27133,196.80133,1.0,0.018
+ResNet-50,0.02,Real sites,Gfeat_CP,0.00333,0.03733,196.80133,1.0,0.00937
+ResNet-50,0.02,Real sites,Gfeat_CRC,0.01452,0.27133,196.80133,1.0,0.018
+ResNet-50,0.02,Real sites,Gscore_CP,0.00349,0.03733,167.986,1.0,0.00937
+ResNet-50,0.02,Real sites,Gscore_CRC,0.01223,0.222,167.986,1.0,0.018
+ResNet-50,0.02,Real sites,TGT_CP,0.00333,0.03733,196.80133,1.0,0.00937
+ResNet-50,0.02,Real sites,TGT_CRC,0.01452,0.27133,196.80133,1.0,0.018
+ResNet-50,0.05,Appearance shift,FINAL_CP,0.0223,0.11373,171.41902,0.96745,0.03594
+ResNet-50,0.05,Appearance shift,FINAL_CRC,0.04365,0.34176,171.41902,0.96745,0.04789
+ResNet-50,0.05,Appearance shift,G4_CP,0.0223,0.11373,171.41902,0.96745,0.03594
+ResNet-50,0.05,Appearance shift,G4_CRC,0.04365,0.34176,171.41902,0.96745,0.04789
+ResNet-50,0.05,Appearance shift,Gfeat_CP,0.02206,0.11098,172.65667,0.96745,0.03189
+ResNet-50,0.05,Appearance shift,Gfeat_CRC,0.04353,0.3398,172.65667,0.96745,0.04789
+ResNet-50,0.05,Appearance shift,Gscore_CP,0.03959,0.25941,126.73588,0.96745,0.09129
+ResNet-50,0.05,Appearance shift,Gscore_CRC,0.05545,0.42882,126.73588,0.96745,0.10193
+ResNet-50,0.05,Appearance shift,TGT_CP,0.02133,0.10235,177.43941,0.96745,0.02455
+ResNet-50,0.05,Appearance shift,TGT_CRC,0.04338,0.33784,177.43941,0.96745,0.04789
+ResNet-50,0.05,Concept shift (image-invisible),FINAL_CP,0.09604,0.93167,6.31,0.03833,0.10818
+ResNet-50,0.05,Concept shift (image-invisible),FINAL_CRC,0.09685,0.93833,6.31,0.03833,0.10916
+ResNet-50,0.05,Concept shift (image-invisible),G4_CP,0.09604,0.93167,6.31,0.03833,0.10818
+ResNet-50,0.05,Concept shift (image-invisible),G4_CRC,0.09685,0.93833,6.31,0.03833,0.10916
+ResNet-50,0.05,Concept shift (image-invisible),Gfeat_CP,0.09748,0.95167,2.20833,0.03833,0.11019
+ResNet-50,0.05,Concept shift (image-invisible),Gfeat_CRC,0.09776,0.955,2.20833,0.03833,0.11049
+ResNet-50,0.05,Concept shift (image-invisible),Gscore_CP,0.0952,0.92,8.14333,0.03833,0.10776
+ResNet-50,0.05,Concept shift (image-invisible),Gscore_CRC,0.09644,0.93167,8.14333,0.03833,0.10909
+ResNet-50,0.05,Concept shift (image-invisible),TGT_CP,0.02169,0.09333,157.72667,0.03833,0.02208
+ResNet-50,0.05,Concept shift (image-invisible),TGT_CRC,0.04213,0.31167,157.72667,0.03833,0.04353
+ResNet-50,0.05,Prevalence shift,FINAL_CP,0.04849,0.45333,4.60556,0.02111,0.04855
+ResNet-50,0.05,Prevalence shift,FINAL_CRC,0.04909,0.46111,4.60556,0.02111,0.04932
+ResNet-50,0.05,Prevalence shift,G4_CP,0.04849,0.45333,4.60556,0.02111,0.04855
+ResNet-50,0.05,Prevalence shift,G4_CRC,0.04909,0.46111,4.60556,0.02111,0.04932
+ResNet-50,0.05,Prevalence shift,Gfeat_CP,0.04877,0.45889,1.90667,0.02111,0.04892
+ResNet-50,0.05,Prevalence shift,Gfeat_CRC,0.04898,0.46111,1.90667,0.02111,0.04922
+ResNet-50,0.05,Prevalence shift,Gscore_CP,0.04788,0.44778,8.94111,0.02111,0.04798
+ResNet-50,0.05,Prevalence shift,Gscore_CRC,0.04917,0.46222,8.94111,0.02111,0.04957
+ResNet-50,0.05,Prevalence shift,TGT_CP,0.02171,0.10556,218.94556,0.02111,0.0225
+ResNet-50,0.05,Prevalence shift,TGT_CRC,0.04411,0.35444,218.94556,0.02111,0.04595
+ResNet-50,0.05,Real sites,FINAL_CP,0.02142,0.11267,103.51133,1.0,0.02417
+ResNet-50,0.05,Real sites,FINAL_CRC,0.0433,0.34733,103.51133,1.0,0.04507
+ResNet-50,0.05,Real sites,G4_CP,0.02142,0.11267,103.51133,1.0,0.02417
+ResNet-50,0.05,Real sites,G4_CRC,0.0433,0.34733,103.51133,1.0,0.04507
+ResNet-50,0.05,Real sites,Gfeat_CP,0.02142,0.11267,103.51133,1.0,0.02417
+ResNet-50,0.05,Real sites,Gfeat_CRC,0.0433,0.34733,103.51133,1.0,0.04507
+ResNet-50,0.05,Real sites,Gscore_CP,0.01933,0.096,81.90733,1.0,0.02417
+ResNet-50,0.05,Real sites,Gscore_CRC,0.03703,0.28733,81.90733,1.0,0.04507
+ResNet-50,0.05,Real sites,TGT_CP,0.02142,0.11267,103.51133,1.0,0.02417
+ResNet-50,0.05,Real sites,TGT_CRC,0.0433,0.34733,103.51133,1.0,0.04507
+ResNet-50,0.1,Appearance shift,FINAL_CP,0.04435,0.1102,83.2402,0.96745,0.06736
+ResNet-50,0.1,Appearance shift,FINAL_CRC,0.08833,0.34941,83.2402,0.96745,0.09362
+ResNet-50,0.1,Appearance shift,G4_CP,0.04435,0.1102,83.2402,0.96745,0.06736
+ResNet-50,0.1,Appearance shift,G4_CRC,0.08833,0.34941,83.2402,0.96745,0.09362
+ResNet-50,0.1,Appearance shift,Gfeat_CP,0.04407,0.10941,83.81686,0.96745,0.06257
+ResNet-50,0.1,Appearance shift,Gfeat_CRC,0.0883,0.3498,83.81686,0.96745,0.09362
+ResNet-50,0.1,Appearance shift,Gscore_CP,0.07686,0.27216,61.68431,0.96745,0.18188
+ResNet-50,0.1,Appearance shift,Gscore_CRC,0.10879,0.44353,61.68431,0.96745,0.19437
+ResNet-50,0.1,Appearance shift,TGT_CP,0.04284,0.10275,86.05471,0.96745,0.04642
+ResNet-50,0.1,Appearance shift,TGT_CRC,0.08823,0.34941,86.05471,0.96745,0.09362
+ResNet-50,0.1,Concept shift (image-invisible),FINAL_CP,0.17558,0.96,3.075,0.03833,0.19545
+ResNet-50,0.1,Concept shift (image-invisible),FINAL_CRC,0.17719,0.965,3.075,0.03833,0.19702
+ResNet-50,0.1,Concept shift (image-invisible),G4_CP,0.17558,0.96,3.075,0.03833,0.19545
+ResNet-50,0.1,Concept shift (image-invisible),G4_CRC,0.17719,0.965,3.075,0.03833,0.19702
+ResNet-50,0.1,Concept shift (image-invisible),Gfeat_CP,0.1784,0.98,1.135,0.03833,0.19923
+ResNet-50,0.1,Concept shift (image-invisible),Gfeat_CRC,0.17881,0.98167,1.135,0.03833,0.19948
+ResNet-50,0.1,Concept shift (image-invisible),Gscore_CP,0.17393,0.95,3.875,0.03833,0.19452
+ResNet-50,0.1,Concept shift (image-invisible),Gscore_CRC,0.17601,0.955,3.875,0.03833,0.1966
+ResNet-50,0.1,Concept shift (image-invisible),TGT_CP,0.04186,0.09667,77.805,0.03833,0.04334
+ResNet-50,0.1,Concept shift (image-invisible),TGT_CRC,0.08467,0.32833,77.805,0.03833,0.0878
+ResNet-50,0.1,Prevalence shift,FINAL_CP,0.09756,0.44,2.39111,0.02111,0.09787
+ResNet-50,0.1,Prevalence shift,FINAL_CRC,0.09878,0.44889,2.39111,0.02111,0.09985
+ResNet-50,0.1,Prevalence shift,G4_CP,0.09756,0.44,2.39111,0.02111,0.09787
+ResNet-50,0.1,Prevalence shift,G4_CRC,0.09878,0.44889,2.39111,0.02111,0.09985
+ResNet-50,0.1,Prevalence shift,Gfeat_CP,0.09822,0.44667,1.02222,0.02111,0.09888
+ResNet-50,0.1,Prevalence shift,Gfeat_CRC,0.0985,0.44778,1.02222,0.02111,0.09906
+ResNet-50,0.1,Prevalence shift,Gscore_CP,0.09657,0.43556,4.57,0.02111,0.09691
+ResNet-50,0.1,Prevalence shift,Gscore_CRC,0.0987,0.44889,4.57,0.02111,0.09877
+ResNet-50,0.1,Prevalence shift,TGT_CP,0.04236,0.08778,112.92222,0.02111,0.04287
+ResNet-50,0.1,Prevalence shift,TGT_CRC,0.08757,0.36556,112.92222,0.02111,0.08868
+ResNet-50,0.1,Real sites,FINAL_CP,0.04173,0.09933,50.79867,1.0,0.04588
+ResNet-50,0.1,Real sites,FINAL_CRC,0.08417,0.32733,50.79867,1.0,0.09376
+ResNet-50,0.1,Real sites,G4_CP,0.04173,0.09933,50.79867,1.0,0.04588
+ResNet-50,0.1,Real sites,G4_CRC,0.08417,0.32733,50.79867,1.0,0.09376
+ResNet-50,0.1,Real sites,Gfeat_CP,0.04173,0.09933,50.79867,1.0,0.04588
+ResNet-50,0.1,Real sites,Gfeat_CRC,0.08417,0.32733,50.79867,1.0,0.09376
+ResNet-50,0.1,Real sites,Gscore_CP,0.03851,0.08133,40.22267,1.0,0.04646
+ResNet-50,0.1,Real sites,Gscore_CRC,0.0734,0.272,40.22267,1.0,0.09376
+ResNet-50,0.1,Real sites,TGT_CP,0.04173,0.09933,50.79867,1.0,0.04588
+ResNet-50,0.1,Real sites,TGT_CRC,0.08417,0.32733,50.79867,1.0,0.09376
+DINOv2-S (frozen),0.02,Appearance shift,FINAL_CP,0.00903,0.13824,441.69039,0.96039,0.01361
+DINOv2-S (frozen),0.02,Appearance shift,FINAL_CRC,0.01732,0.34078,441.69039,0.96039,0.01801
+DINOv2-S (frozen),0.02,Appearance shift,G4_CP,0.00903,0.13824,441.69039,0.96039,0.01361
+DINOv2-S (frozen),0.02,Appearance shift,G4_CRC,0.01732,0.34078,441.69039,0.96039,0.01801
+DINOv2-S (frozen),0.02,Appearance shift,Gfeat_CP,0.00897,0.13706,443.10627,0.96039,0.01258
+DINOv2-S (frozen),0.02,Appearance shift,Gfeat_CRC,0.01732,0.34078,443.10627,0.96039,0.01801
+DINOv2-S (frozen),0.02,Appearance shift,Gscore_CP,0.01403,0.27294,351.66275,0.96039,0.02219
+DINOv2-S (frozen),0.02,Appearance shift,Gscore_CRC,0.02055,0.43431,351.66275,0.96039,0.02701
+DINOv2-S (frozen),0.02,Appearance shift,TGT_CP,0.00823,0.12118,455.30098,0.96039,0.00966
+DINOv2-S (frozen),0.02,Appearance shift,TGT_CRC,0.01707,0.33216,455.30098,0.96039,0.01801
+DINOv2-S (frozen),0.02,Concept shift (image-invisible),FINAL_CP,0.03541,0.82333,13.38667,0.03333,0.04
+DINOv2-S (frozen),0.02,Concept shift (image-invisible),FINAL_CRC,0.03568,0.82833,13.38667,0.03333,0.04029
+DINOv2-S (frozen),0.02,Concept shift (image-invisible),G4_CP,0.03541,0.82333,13.38667,0.03333,0.04
+DINOv2-S (frozen),0.02,Concept shift (image-invisible),G4_CRC,0.03568,0.82833,13.38667,0.03333,0.04029
+DINOv2-S (frozen),0.02,Concept shift (image-invisible),Gfeat_CP,0.03621,0.84833,1.92333,0.03333,0.04093
+DINOv2-S (frozen),0.02,Concept shift (image-invisible),Gfeat_CRC,0.03625,0.84833,1.92333,0.03333,0.04098
+DINOv2-S (frozen),0.02,Concept shift (image-invisible),Gscore_CP,0.03496,0.81167,19.37167,0.03333,0.03967
+DINOv2-S (frozen),0.02,Concept shift (image-invisible),Gscore_CRC,0.03531,0.81833,19.37167,0.03333,0.04006
+DINOv2-S (frozen),0.02,Concept shift (image-invisible),TGT_CP,0.00861,0.105,399.01167,0.03333,0.00879
+DINOv2-S (frozen),0.02,Concept shift (image-invisible),TGT_CRC,0.01664,0.32667,399.01167,0.03333,0.0171
+DINOv2-S (frozen),0.02,Prevalence shift,FINAL_CP,0.01937,0.43444,13.40444,0.02556,0.01944
+DINOv2-S (frozen),0.02,Prevalence shift,FINAL_CRC,0.01961,0.43778,13.40444,0.02556,0.01966
+DINOv2-S (frozen),0.02,Prevalence shift,G4_CP,0.01937,0.43444,13.40444,0.02556,0.01944
+DINOv2-S (frozen),0.02,Prevalence shift,G4_CRC,0.01961,0.43778,13.40444,0.02556,0.01966
+DINOv2-S (frozen),0.02,Prevalence shift,Gfeat_CP,0.01961,0.44,4.42222,0.02556,0.01963
+DINOv2-S (frozen),0.02,Prevalence shift,Gfeat_CRC,0.01967,0.44111,4.42222,0.02556,0.01971
+DINOv2-S (frozen),0.02,Prevalence shift,Gscore_CP,0.01907,0.42333,23.90111,0.02556,0.01926
+DINOv2-S (frozen),0.02,Prevalence shift,Gscore_CRC,0.01953,0.43333,23.90111,0.02556,0.01977
+DINOv2-S (frozen),0.02,Prevalence shift,TGT_CP,0.00849,0.11111,510.37333,0.02556,0.00893
+DINOv2-S (frozen),0.02,Prevalence shift,TGT_CRC,0.0169,0.32889,510.37333,0.02556,0.01737
+DINOv2-S (frozen),0.02,Real sites,FINAL_CP,0.00372,0.052,196.80133,1.0,0.00955
+DINOv2-S (frozen),0.02,Real sites,FINAL_CRC,0.01468,0.284,196.80133,1.0,0.01814
+DINOv2-S (frozen),0.02,Real sites,G4_CP,0.00372,0.052,196.80133,1.0,0.00955
+DINOv2-S (frozen),0.02,Real sites,G4_CRC,0.01468,0.284,196.80133,1.0,0.01814
+DINOv2-S (frozen),0.02,Real sites,Gfeat_CP,0.00372,0.052,196.80133,1.0,0.00955
+DINOv2-S (frozen),0.02,Real sites,Gfeat_CRC,0.01468,0.284,196.80133,1.0,0.01814
+DINOv2-S (frozen),0.02,Real sites,Gscore_CP,0.00372,0.052,196.05533,1.0,0.00955
+DINOv2-S (frozen),0.02,Real sites,Gscore_CRC,0.01457,0.28267,196.05533,1.0,0.01814
+DINOv2-S (frozen),0.02,Real sites,TGT_CP,0.00372,0.052,196.80133,1.0,0.00955
+DINOv2-S (frozen),0.02,Real sites,TGT_CRC,0.01468,0.284,196.80133,1.0,0.01814
+DINOv2-S (frozen),0.05,Appearance shift,FINAL_CP,0.02271,0.11922,170.29078,0.96039,0.03843
+DINOv2-S (frozen),0.05,Appearance shift,FINAL_CRC,0.04318,0.33686,170.29078,0.96039,0.04597
+DINOv2-S (frozen),0.05,Appearance shift,G4_CP,0.02271,0.11922,170.29078,0.96039,0.03843
+DINOv2-S (frozen),0.05,Appearance shift,G4_CRC,0.04318,0.33686,170.29078,0.96039,0.04597
+DINOv2-S (frozen),0.05,Appearance shift,Gfeat_CP,0.02266,0.11843,171.07431,0.96039,0.0375
+DINOv2-S (frozen),0.05,Appearance shift,Gfeat_CRC,0.04323,0.33725,171.07431,0.96039,0.04604
+DINOv2-S (frozen),0.05,Appearance shift,Gscore_CP,0.03404,0.26216,134.98824,0.96039,0.05248
+DINOv2-S (frozen),0.05,Appearance shift,Gscore_CRC,0.05052,0.43588,134.98824,0.96039,0.0616
+DINOv2-S (frozen),0.05,Appearance shift,TGT_CP,0.02179,0.10882,177.59137,0.96039,0.02349
+DINOv2-S (frozen),0.05,Appearance shift,TGT_CRC,0.04323,0.3351,177.59137,0.96039,0.04597
+DINOv2-S (frozen),0.05,Concept shift (image-invisible),FINAL_CP,0.084,0.88833,5.345,0.03333,0.09391
+DINOv2-S (frozen),0.05,Concept shift (image-invisible),FINAL_CRC,0.08454,0.89667,5.345,0.03333,0.09445
+DINOv2-S (frozen),0.05,Concept shift (image-invisible),G4_CP,0.084,0.88833,5.345,0.03333,0.09391
+DINOv2-S (frozen),0.05,Concept shift (image-invisible),G4_CRC,0.08454,0.89667,5.345,0.03333,0.09445
+DINOv2-S (frozen),0.05,Concept shift (image-invisible),Gfeat_CP,0.08599,0.91667,0.72167,0.03333,0.09604
+DINOv2-S (frozen),0.05,Concept shift (image-invisible),Gfeat_CRC,0.08627,0.92167,0.72167,0.03333,0.09632
+DINOv2-S (frozen),0.05,Concept shift (image-invisible),Gscore_CP,0.08292,0.87667,7.72333,0.03333,0.09326
+DINOv2-S (frozen),0.05,Concept shift (image-invisible),Gscore_CRC,0.0837,0.885,7.72333,0.03333,0.09413
+DINOv2-S (frozen),0.05,Concept shift (image-invisible),TGT_CP,0.02053,0.095,157.815,0.03333,0.02099
+DINOv2-S (frozen),0.05,Concept shift (image-invisible),TGT_CRC,0.04356,0.355,157.815,0.03333,0.04514
+DINOv2-S (frozen),0.05,Prevalence shift,FINAL_CP,0.04865,0.41111,5.69444,0.02556,0.04903
+DINOv2-S (frozen),0.05,Prevalence shift,FINAL_CRC,0.04912,0.41778,5.69444,0.02556,0.0494
+DINOv2-S (frozen),0.05,Prevalence shift,G4_CP,0.04865,0.41111,5.69444,0.02556,0.04903
+DINOv2-S (frozen),0.05,Prevalence shift,G4_CRC,0.04912,0.41778,5.69444,0.02556,0.0494
+DINOv2-S (frozen),0.05,Prevalence shift,Gfeat_CP,0.04927,0.41889,2.01333,0.02556,0.04936
+DINOv2-S (frozen),0.05,Prevalence shift,Gfeat_CRC,0.04937,0.42,2.01333,0.02556,0.0495
+DINOv2-S (frozen),0.05,Prevalence shift,Gscore_CP,0.04809,0.40222,10.23444,0.02556,0.04885
+DINOv2-S (frozen),0.05,Prevalence shift,Gscore_CRC,0.04906,0.41333,10.23444,0.02556,0.0498
+DINOv2-S (frozen),0.05,Prevalence shift,TGT_CP,0.02111,0.10889,218.85667,0.02556,0.02191
+DINOv2-S (frozen),0.05,Prevalence shift,TGT_CRC,0.04353,0.33889,218.85667,0.02556,0.0449
+DINOv2-S (frozen),0.05,Real sites,FINAL_CP,0.02152,0.11,103.51133,1.0,0.02409
+DINOv2-S (frozen),0.05,Real sites,FINAL_CRC,0.04262,0.32733,103.51133,1.0,0.04774
+DINOv2-S (frozen),0.05,Real sites,G4_CP,0.02152,0.11,103.51133,1.0,0.02409
+DINOv2-S (frozen),0.05,Real sites,G4_CRC,0.04262,0.32733,103.51133,1.0,0.04774
+DINOv2-S (frozen),0.05,Real sites,Gfeat_CP,0.02152,0.11,103.51133,1.0,0.02409
+DINOv2-S (frozen),0.05,Real sites,Gfeat_CRC,0.04262,0.32733,103.51133,1.0,0.04774
+DINOv2-S (frozen),0.05,Real sites,Gscore_CP,0.02138,0.10867,102.89067,1.0,0.02417
+DINOv2-S (frozen),0.05,Real sites,Gscore_CRC,0.04232,0.324,102.89067,1.0,0.04782
+DINOv2-S (frozen),0.05,Real sites,TGT_CP,0.02152,0.11,103.51133,1.0,0.02409
+DINOv2-S (frozen),0.05,Real sites,TGT_CRC,0.04262,0.32733,103.51133,1.0,0.04774
+DINOv2-S (frozen),0.1,Appearance shift,FINAL_CP,0.04551,0.11255,82.70922,0.96039,0.07728
+DINOv2-S (frozen),0.1,Appearance shift,FINAL_CRC,0.08744,0.34647,82.70922,0.96039,0.0941
+DINOv2-S (frozen),0.1,Appearance shift,G4_CP,0.04551,0.11255,82.70922,0.96039,0.07728
+DINOv2-S (frozen),0.1,Appearance shift,G4_CRC,0.08744,0.34647,82.70922,0.96039,0.0941
+DINOv2-S (frozen),0.1,Appearance shift,Gfeat_CP,0.04544,0.11255,83.08078,0.96039,0.0761
+DINOv2-S (frozen),0.1,Appearance shift,Gfeat_CRC,0.08757,0.34745,83.08078,0.96039,0.0941
+DINOv2-S (frozen),0.1,Appearance shift,Gscore_CP,0.06501,0.26647,65.66843,0.96039,0.10073
+DINOv2-S (frozen),0.1,Appearance shift,Gscore_CRC,0.09855,0.45471,65.66843,0.96039,0.12035
+DINOv2-S (frozen),0.1,Appearance shift,TGT_CP,0.0436,0.10216,86.16255,0.96039,0.04971
+DINOv2-S (frozen),0.1,Appearance shift,TGT_CRC,0.08711,0.34451,86.16255,0.96039,0.0941
+DINOv2-S (frozen),0.1,Concept shift (image-invisible),FINAL_CP,0.16082,0.93833,2.595,0.03333,0.17779
+DINOv2-S (frozen),0.1,Concept shift (image-invisible),FINAL_CRC,0.16226,0.945,2.595,0.03333,0.17966
+DINOv2-S (frozen),0.1,Concept shift (image-invisible),G4_CP,0.16082,0.93833,2.595,0.03333,0.17779
+DINOv2-S (frozen),0.1,Concept shift (image-invisible),G4_CRC,0.16226,0.945,2.595,0.03333,0.17966
+DINOv2-S (frozen),0.1,Concept shift (image-invisible),Gfeat_CP,0.16523,0.96667,0.34833,0.03333,0.18293
+DINOv2-S (frozen),0.1,Concept shift (image-invisible),Gfeat_CRC,0.16529,0.96667,0.34833,0.03333,0.18293
+DINOv2-S (frozen),0.1,Concept shift (image-invisible),Gscore_CP,0.15951,0.92667,3.76667,0.03333,0.17722
+DINOv2-S (frozen),0.1,Concept shift (image-invisible),Gscore_CRC,0.16156,0.93667,3.76667,0.03333,0.17924
+DINOv2-S (frozen),0.1,Concept shift (image-invisible),TGT_CP,0.04205,0.08333,77.22333,0.03333,0.04324
+DINOv2-S (frozen),0.1,Concept shift (image-invisible),TGT_CRC,0.08629,0.34667,77.22333,0.03333,0.08928
+DINOv2-S (frozen),0.1,Prevalence shift,FINAL_CP,0.09842,0.46444,2.93333,0.02556,0.09908
+DINOv2-S (frozen),0.1,Prevalence shift,FINAL_CRC,0.09956,0.47,2.93333,0.02556,0.09976
+DINOv2-S (frozen),0.1,Prevalence shift,G4_CP,0.09842,0.46444,2.93333,0.02556,0.09908
+DINOv2-S (frozen),0.1,Prevalence shift,G4_CRC,0.09956,0.47,2.93333,0.02556,0.09976
+DINOv2-S (frozen),0.1,Prevalence shift,Gfeat_CP,0.0993,0.47111,1.12889,0.02556,0.09951
+DINOv2-S (frozen),0.1,Prevalence shift,Gfeat_CRC,0.09949,0.47222,1.12889,0.02556,0.09965
+DINOv2-S (frozen),0.1,Prevalence shift,Gscore_CP,0.09691,0.45,5.23556,0.02556,0.09825
+DINOv2-S (frozen),0.1,Prevalence shift,Gscore_CRC,0.09886,0.46,5.23556,0.02556,0.09973
+DINOv2-S (frozen),0.1,Prevalence shift,TGT_CP,0.04356,0.1,113.05556,0.02556,0.04637
+DINOv2-S (frozen),0.1,Prevalence shift,TGT_CRC,0.08785,0.34778,113.05556,0.02556,0.09159
+DINOv2-S (frozen),0.1,Real sites,FINAL_CP,0.04226,0.10533,50.79867,1.0,0.0461
+DINOv2-S (frozen),0.1,Real sites,FINAL_CRC,0.0855,0.34067,50.79867,1.0,0.09198
+DINOv2-S (frozen),0.1,Real sites,G4_CP,0.04226,0.10533,50.79867,1.0,0.0461
+DINOv2-S (frozen),0.1,Real sites,G4_CRC,0.0855,0.34067,50.79867,1.0,0.09198
+DINOv2-S (frozen),0.1,Real sites,Gfeat_CP,0.04226,0.10533,50.79867,1.0,0.0461
+DINOv2-S (frozen),0.1,Real sites,Gfeat_CRC,0.0855,0.34067,50.79867,1.0,0.09198
+DINOv2-S (frozen),0.1,Real sites,Gscore_CP,0.04203,0.10533,50.49,1.0,0.0461
+DINOv2-S (frozen),0.1,Real sites,Gscore_CRC,0.08492,0.338,50.49,1.0,0.09198
+DINOv2-S (frozen),0.1,Real sites,TGT_CP,0.04226,0.10533,50.79867,1.0,0.0461
+DINOv2-S (frozen),0.1,Real sites,TGT_CRC,0.0855,0.34067,50.79867,1.0,0.09198

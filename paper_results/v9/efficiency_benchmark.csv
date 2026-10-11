@@ -1,0 +1,6 @@
+site,n_source_cal,n_adapt,n_test,pca,bbse,domain_weights,weighted_crc,score_test_B200,feature_test_B200,few_label_bounds,full_pipeline_all_methods_3_alphas
+idrid,5269,258,258,0.147,0.001,0.009,0.0,0.071,3.075,0.001,4.054
+deepdrid,5269,199,200,0.236,0.001,0.01,0.0,0.063,2.684,0.0,3.558
+messidor2,5269,437,437,0.252,0.001,0.008,0.0,0.12,2.598,0.0,3.489
+aptos,5269,1831,1831,0.247,0.001,0.014,0.0,0.483,3.498,0.0,4.738
+ddr,5269,6261,6261,0.358,0.001,0.019,0.0,1.678,3.424,0.0,5.209

@@ -1,0 +1,25 @@
+# data, models and large outputs are never committed
+data/
+models/
+preds/
+logs/
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.parquet
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.png
+*.zip
+# credentials and local tooling
+.kaggle/
+*.token
+.gh_token
+.env
+# python
+__pycache__/
+*.pyc

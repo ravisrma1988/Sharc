@@ -1,0 +1,10 @@
+site,alpha,labelled_mean,prevalence,pool_exhausted_rate
+none,0.02,509.822,0.224,0.0
+none,0.05,200.696,0.224,0.0
+none,0.1,99.08,0.224,0.0
+prev_high,0.02,313.442,0.464,0.0
+prev_high,0.05,102.386,0.464,0.0
+prev_high,0.1,48.63,0.464,0.0
+prev_low,0.02,702.218,0.104,0.0
+prev_low,0.05,351.216,0.104,0.0
+prev_low,0.1,191.036,0.104,0.0

@@ -1,0 +1,16 @@
+backbone,group,branch,runs,exceed,rate,ci95,median_test_positives
+convnext5,Appearance,flagged -> exact binomial (90% CP),8238,814,0.0988,"[0.092, 0.105]",294.0
+convnext5,Appearance,unflagged -> source CRC (expected risk only),262,131,0.5,"[0.438, 0.562]",
+convnext5,Prevalence,flagged -> exact binomial (90% CP),43,8,0.186,"[0.084, 0.334]",293.0
+convnext5,Prevalence,unflagged -> source CRC (expected risk only),1457,603,0.4139,"[0.388, 0.440]",
+convnext5,Real,flagged -> exact binomial (90% CP),2500,285,0.114,"[0.102, 0.127]",162.0
+resnet50,Appearance,flagged -> exact binomial (90% CP),4934,504,0.1021,"[0.094, 0.111]",295.0
+resnet50,Appearance,unflagged -> source CRC (expected risk only),166,76,0.4578,"[0.380, 0.537]",
+resnet50,Prevalence,flagged -> exact binomial (90% CP),19,0,0.0,"[0.000, 0.176]",299.0
+resnet50,Prevalence,unflagged -> source CRC (expected risk only),881,408,0.4631,"[0.430, 0.497]",
+resnet50,Real,flagged -> exact binomial (90% CP),1500,169,0.1127,"[0.097, 0.130]",161.0
+dinov2,Appearance,flagged -> exact binomial (90% CP),4898,531,0.1084,"[0.100, 0.117]",295.0
+dinov2,Appearance,unflagged -> source CRC (expected risk only),202,77,0.3812,"[0.314, 0.452]",
+dinov2,Prevalence,flagged -> exact binomial (90% CP),23,1,0.0435,"[0.001, 0.219]",293.0
+dinov2,Prevalence,unflagged -> source CRC (expected risk only),877,369,0.4208,"[0.388, 0.454]",
+dinov2,Real,flagged -> exact binomial (90% CP),1500,165,0.11,"[0.095, 0.127]",161.0
